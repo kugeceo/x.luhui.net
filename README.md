@@ -7,7 +7,7 @@ HTML5技术秀circumscrible你的3D立体旋转名字
 http://3dx.netlify.app
 
 
-![绘制展示](http://x.luhui.net/Screen.jpg)
+![绘制展示](http://x.guanfu.org/Screen.jpg)
 
 
 状态徽章
